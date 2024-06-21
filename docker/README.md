@@ -29,7 +29,7 @@ If you like to persist your data (flows, logs, apikeys, credentials), set these 
 
 -   DATABASE_PATH=/root/.flowise
 -   APIKEY_PATH=/root/.flowise
--   LOG_PATH=/root/.flowise/logs
+-   LOG_PATH=/root/.flowise/logs/root/.flowise/logs
 -   SECRETKEY_PATH=/root/.flowise
 -   BLOB_STORAGE_PATH=/root/.flowise/storage
 
